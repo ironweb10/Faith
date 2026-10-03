@@ -43,9 +43,10 @@ after thats done you would need to edit your Plugins.ini, if the plugins folder 
 ```
 
 
-Got deleted from: https://github.com/FortOrbis/Faith so I reupload
+
 and now you are done! simply load up fortnite and it should automatically redirect all traffic to your own backend
 
 
 # License Disclosure
 Portions of the materials used are trademarks and/or copyrighted works of Epic Games, Inc. All rights reserved by Epic. This material is not official and is not endorsed by Epic.
+Got deleted from: https://github.com/FortOrbis/Faith so I reupload
