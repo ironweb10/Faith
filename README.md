@@ -42,6 +42,8 @@ after thats done you would need to edit your Plugins.ini, if the plugins folder 
 /data/GoldHEN/plugins/FaithDebug.prx=true
 ```
 
+
+Got deleted from: https://github.com/FortOrbis/Faith so I reupload
 and now you are done! simply load up fortnite and it should automatically redirect all traffic to your own backend
 
 
