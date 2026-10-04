@@ -6,7 +6,7 @@ We hook into sceHttpCreateConnectionWithURL and sceHttpCreateRequestWithURL, the
 
 ## How to Compile
 
-Get VMWare or Use a real Linux machine  
+Get VMWare or Use a real Linux machine Or if you are smarter use WSL
 Download the OpenOrbis toolchain from this [link](https://github.com/OpenOrbis/OpenOrbis-PS4-Toolchain/releases/tag/v0.5.3) and GoldHen SDK from this [link](https://github.com/GoldHEN/GoldHEN_Plugins_SDK) and
 Store them in a location such as home/(YourUserName)/ in my case I made a folder called ps4jb with both of those folders    
 You would also need to Install the dependenies needed by the OO Toolchain
