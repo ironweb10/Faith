@@ -1,4 +1,4 @@
-# Faith
+# Faith (I didn't make this I only re-upload be it got deleted)
 Faith is a request redirector that reroutes traffic from Sony's scehttp lib to your own custom server.
 
 ## How Does This Work?
